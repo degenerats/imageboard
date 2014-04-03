@@ -1,3 +1,5 @@
 *.pyc
 .idea
 *.db
+imageboard/local_settings.py
+imageboard/private_settings.py
